@@ -2,7 +2,7 @@
       "adventure": [
         {
           "id": 2,
-         "name": "Uncharted 4",
+          "name": "Uncharted 4",
           "sold": true,
           "price": 0,
           "image": "../assets/1.1",
